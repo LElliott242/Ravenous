@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ravenous/static/css/main.d02c0444.chunk.css",
+    "main.js": "/Ravenous/static/js/main.5e895e6d.chunk.js",
+    "main.js.map": "/Ravenous/static/js/main.5e895e6d.chunk.js.map",
+    "runtime-main.js": "/Ravenous/static/js/runtime-main.9bb2f265.js",
+    "runtime-main.js.map": "/Ravenous/static/js/runtime-main.9bb2f265.js.map",
+    "static/js/2.bfd3eee6.chunk.js": "/Ravenous/static/js/2.bfd3eee6.chunk.js",
+    "static/js/2.bfd3eee6.chunk.js.map": "/Ravenous/static/js/2.bfd3eee6.chunk.js.map",
+    "index.html": "/Ravenous/index.html",
+    "precache-manifest.44b637023f2968e55c738b103f1bc00e.js": "/Ravenous/precache-manifest.44b637023f2968e55c738b103f1bc00e.js",
+    "service-worker.js": "/Ravenous/service-worker.js",
+    "static/css/main.d02c0444.chunk.css.map": "/Ravenous/static/css/main.d02c0444.chunk.css.map",
+    "static/js/2.bfd3eee6.chunk.js.LICENSE.txt": "/Ravenous/static/js/2.bfd3eee6.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/Ravenous/static/media/background_search_mobile.5d0905e6.jpg",
+    "static/media/logo.svg": "/Ravenous/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bb2f265.js",
+    "static/js/2.bfd3eee6.chunk.js",
+    "static/css/main.d02c0444.chunk.css",
+    "static/js/main.5e895e6d.chunk.js"
+  ]
+}
